@@ -156,7 +156,7 @@ nav ul li a{
 .list__item img {
   position: absolute;
   z-index: 2;
-  top: 50%;
+  top: 30%;
   left: 80%;
   width: 20%;
   height: auto;
